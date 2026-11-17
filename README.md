@@ -1,4 +1,4 @@
-Aerospace engineer at Bell. I develop design loads for a next-generation tiltrotor, and I create a lot of the software and tooling my team uses. Outside of work I like to make cool things, from harnesses to hardware.
+Aerospace engineer at Bell. Outside of work I like to make cool things, from harnesses to hardware.
 
 - [Term](https://github.com/nategriffin26/term): iPhone terminal with a mosh client written in Rust, Ghostty's terminal engine and native tmux
 - [nbrain](https://github.com/nategriffin26/nbrain): one memory shared by every AI agent I use, behind one local MCP server
